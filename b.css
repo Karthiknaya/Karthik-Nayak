@@ -1,4 +1,15 @@
 a{
 background-color: aqua;
 }
+a:hover{
+    text-decoration:none;
+    color:blueviolet;
+}
+a:visited{
+    color:beige;
+}
+a:link{
+    color:brown;
+}
+
 
